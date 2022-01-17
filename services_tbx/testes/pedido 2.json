@@ -1,0 +1,72 @@
+{"id":574026262,"numero":"129323"}
+{
+    "pedido": {
+        "data_pedido": "08/10/2021",
+        "data_prevista": "12/10/2021",
+        "cliente": {
+            "nome": "Johnnathan Victor Gonçalves Sabba",
+            "codigo": "",
+            "nome_fantasia": "",
+            "tipo_pessoa": "F",
+            "cpf_cnpj": "009.805.562-36",
+            "ie": "",
+            "rg": "",
+            "endereco": "José Bonifacio",
+            "numero": "2839",
+            "complemento": "Em frente passagem Alvino",
+            "bairro": "Guama",
+            "cidade": "Belem",
+            "uf": "PA",
+            "fone": "(47) 99761-9694",
+            "email": "LU-1071470466374036@alias.integracommerce.com.br",
+            "cep": "66.065-112"
+        },
+        "itens": [
+            {
+                "item": {
+                    "id_produto": "549969792",
+                    "codigo": "CAC0008-C",
+                    "descricao": "CUBA DUPLA DE COZINHA PRODUZIDA EM A\u00c7O INOX 304 COM KIT - CAC0008-C",
+                    "unidade": "UND",
+                    "quantidade": "1.00",
+                    "valor_unitario": "749.90"
+                }
+            },
+            {
+                "item": {
+                    "id_produto": "544276330",
+                    "codigo": "UAC0001-N",
+                    "descricao": "Canal organizador para cozinha produzido em a\u00e7o inox com acess\u00f3rios - UAC0001-N",
+                    "unidade": "UND",
+                    "quantidade": "1.00",
+                    "valor_unitario": "599.90"
+                }
+            }
+        ],
+        "marcadores": [
+            {
+                "marcador": {
+                    "descricao": "TESTE"
+                }
+            },
+            {
+                "marcador": {
+                    
+                    "descricao": "NAO EMITIR"
+                }
+            }
+        ],
+        
+        "nome_transportador": "transportador teste",
+        "forma_pagamento": "multiplas",
+        "frete_por_conta": "E",
+        "valor_frete": "35.00",
+        "valor_desconto": "35.00",
+        "numero_ordem_compra": [],
+        "numero_pedido_ecommerce": "123",
+        "situacao": "Aberto",
+        "obs": "Observações do Pedido",
+        "forma_envio": "c",
+        "forma_frete": "PAC"
+    }
+}

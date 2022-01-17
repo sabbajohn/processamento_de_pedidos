@@ -1,0 +1,87 @@
+<pedido>
+    <data_pedido>20/10/2014</data_pedido>
+    <data_prevista>22/10/2014</data_prevista>
+    <cliente>
+        <codigo>1235</codigo>
+        <nome>Contato Teste 2</nome>
+        <nome_fantasia>Fantasia Contato Teste 2</nome_fantasia>
+        <tipo_pessoa>F</tipo_pessoa>
+        <cpf_cnpj>22755777850</cpf_cnpj>
+        <ie/>
+        <rg>1234567890</rg>
+        <endereco>Rua Teste</endereco>
+        <numero>123</numero>
+        <complemento>sala 2</complemento>
+        <bairro>Teste</bairro>
+        <cep>95700000</cep>
+        <cidade>Bento Gonçalves</cidade>
+        <uf>RS</uf>
+        <fone>5430553808</fone>
+    </cliente>
+    <itens>
+        <item>
+            <codigo>1234</codigo>
+            <descricao>Produto Teste 1</descricao>
+            <unidade>UN</unidade>
+            <quantidade>2</quantidade>
+            <valor_unitario>50.25</valor_unitario>
+        </item>
+    </itens>
+    <itens>
+        <item>
+            <codigo>1235</codigo>
+            <descricao>Produto Teste 2</descricao>
+            <unidade>UN</unidade>
+            <quantidade>4</quantidade>
+            <valor_unitario>15.25</valor_unitario>
+        </item>
+    </itens>
+    <marcadores>
+        <marcador>
+            <id>1234</id>
+            <descricao/>
+        </marcador>
+        <marcador>
+            <id/>
+            <descricao>abcdef</descricao>
+        </marcador>
+    </marcadores>
+    <parcelas>
+        <parcela>
+            <dias>30</dias>
+            <data>29/11/2014</data>
+            <valor>53.84</valor>
+            <obs>Obs Parcela 1</obs>
+            <forma_pagamento>boleto</forma_pagamento>
+            <meio_pagamento>Bradesco X</meio_pagamento>
+        </parcela>
+    </parcelas>
+    <parcelas>
+        <parcela>
+            <dias>60</dias>
+            <data>29/12/2014</data>
+            <valor>53.83</valor>
+            <obs>Obs Parcela 2</obs>
+            <forma_pagamento>dinheiro</forma_pagamento>
+        </parcela>
+    </parcelas>
+    <parcelas>
+        <parcela>
+            <dias>90</dias>
+            <data>27/01/2015</data>
+            <valor>53.83</valor>
+            <obs>Obs Parcela 3</obs>
+        </parcela>
+    </parcelas>
+    <nome_transportador>transportador teste</nome_transportador>
+    <forma_pagamento>multiplas</forma_pagamento>
+    <frete_por_conta>E</frete_por_conta>
+    <valor_frete>35.00</valor_frete>
+    <valor_desconto>35.00</valor_desconto>
+    <numero_ordem_compra/>
+    <numero_pedido_ecommerce>123</numero_pedido_ecommerce>
+    <situacao>Aberto</situacao>
+    <obs>Observações do Pedido</obs>
+    <forma_envio>c</forma_envio>
+    <forma_frete>PAC</forma_frete>
+</pedido>
